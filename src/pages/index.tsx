@@ -34,7 +34,7 @@ export default function Home() {
 		{ q: 'Do we need Hackatime? Can we track Art?', a: 'Yes, you need Hackatime. We are currently discussing the best solution to offer time tracking for art, but it will be allowed.' },
 		{ q: 'When/Where is the IRL event?', a: 'March 13-15 in DC.' },
 		{ q: 'Can I still make a game if I cannot go IRL?', a: 'Yes. We will have a shop for other things for you to spend your hours on as well.' },
-		{ q: 'How do travel stipends work?', a: 'For every hour not used towards the 40hr event invitation, you will gain currency. The currency will be spendable for flight stipends at a rate of $10/hr, among other prizes.' },
+		{ q: 'How do travel stipends work?', a: 'For every hour not used towards the 40hr event invitation, you will gain currency. The currency will be spendable for flight stipends, among other prizes.' },
 		{ q: 'Do projects need to be open source?', a: 'Yes.' },
 		{ q: 'Can you work in teams?', a: 'Yes, but each person must complete the 40hr requirement separately. For example, a team of two needs 80 hours total (40 for each person).' },
 	];
